@@ -18,4 +18,4 @@ Run `pip install qrcode`
 </p>
 
 ## *Author Name*
-[Lekasri](https://github.com/vikrant-v28)
+[Lekasri](https://github.com/lekasri12/QR-Code_generator.git)
